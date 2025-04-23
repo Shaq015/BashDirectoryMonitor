@@ -20,4 +20,5 @@ chmod +x bigBrother.sh
 ## Example Usage
 
 ./bigBrother.sh ~/Documents
+
 ./bigBrother.sh abc/ a.txt b
