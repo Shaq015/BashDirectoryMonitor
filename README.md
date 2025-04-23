@@ -15,6 +15,7 @@ Changes are detected **only** at the top level (not recursively).
 ```bash
 chmod +x bigBrother.sh
 ./bigBrother.sh <directory_path> [optional: list of files or directories to monitor]
+```
 
 ## Example Usage
 
